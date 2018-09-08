@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "msjsdiag.debugger-for-chrome",
+        "KnisterPeter.vscode-github",
+        "eamodio.gitlens",
+        "eg2.tslint",
+        "donjayamanne.githistory",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
