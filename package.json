@@ -2,7 +2,7 @@
     "name": "NautilusAccountsService",
     "version": "1.0.0",
     "description": "Nautilus Accounts MicroService",
-    "private": true,
+    "private": false,
     "scripts": {
         "publish": "npm run clean && tsc --p ./tsconfig.prod.json",
         "build": "npm run clean && tsc --p ./tsconfig.app.json",
